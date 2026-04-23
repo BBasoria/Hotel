@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68EECE50-01D3-421D-8C89-2475AD8CF7DF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MADProyectoEneJun2023</RootNamespace>
+    <AssemblyName>MADProyectoEneJun2023</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CancelarReservación.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelarReservación.Designer.cs">
+      <DependentUpon>CancelarReservación.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckIn.designer.cs">
+      <DependentUpon>CheckIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckOut.Designer.cs">
+      <DependentUpon>CheckOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EntradaUsuario.cs" />
+    <Compile Include="Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Factura.Designer.cs">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistorialCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorialCliente.Designer.cs">
+      <DependentUpon>HistorialCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuOperativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuOperativo.Designer.cs">
+      <DependentUpon>MenuOperativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Habitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Habitacion.Designer.cs">
+      <DependentUpon>Habitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevaContrasena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevaContrasena.Designer.cs">
+      <DependentUpon>NuevaContrasena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteocupacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteocupacion.Designer.cs">
+      <DependentUpon>Reporteocupacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporteventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporteventas.Designer.cs">
+      <DependentUpon>Reporteventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reservacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reservacion.Designer.cs">
+      <DependentUpon>Reservacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdmin.Designer.cs">
+      <DependentUpon>MenuAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tipodehabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tipodehabitacion.Designer.cs">
+      <DependentUpon>Tipodehabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registrocliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registrocliente.Designer.cs">
+      <DependentUpon>Registrocliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iniciosesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Iniciosesion.Designer.cs">
+      <DependentUpon>Iniciosesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registrohotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registrohotel.Designer.cs">
+      <DependentUpon>Registrohotel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registrooperativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registrooperativo.Designer.cs">
+      <DependentUpon>Registrooperativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CancelarReservación.resx">
+      <DependentUpon>CancelarReservación.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckIn.resx">
+      <DependentUpon>CheckIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckOut.resx">
+      <DependentUpon>CheckOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Factura.resx">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistorialCliente.resx">
+      <DependentUpon>HistorialCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuOperativo.resx">
+      <DependentUpon>MenuOperativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Habitacion.resx">
+      <DependentUpon>Habitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevaContrasena.resx">
+      <DependentUpon>NuevaContrasena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteocupacion.resx">
+      <DependentUpon>Reporteocupacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporteventas.resx">
+      <DependentUpon>Reporteventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reservacion.resx">
+      <DependentUpon>Reservacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdmin.resx">
+      <DependentUpon>MenuAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tipodehabitacion.resx">
+      <DependentUpon>Tipodehabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registrocliente.resx">
+      <DependentUpon>Registrocliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registrohotel.resx">
+      <DependentUpon>Registrohotel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registrooperativo.resx">
+      <DependentUpon>Registrooperativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Iniciosesion.resx">
+      <DependentUpon>Iniciosesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enojado.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
