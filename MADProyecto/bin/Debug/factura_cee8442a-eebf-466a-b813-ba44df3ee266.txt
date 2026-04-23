@@ -1,0 +1,15 @@
+***** FACTURA *****
+Código de Reservación: cee8442a-eebf-466a-b813-ba44df3ee266
+Número de Habitación: 1
+ID Cliente: 6
+ID Hotel: 10
+Fecha de Creación: 27/04/2002 12:00:00 a. m.
+Fecha de Entrada: 01/05/2002 12:00:00 a. m.
+Fecha de Salida: 11/05/2002 12:00:00 a. m.
+Tipo de Pago: Debito
+Fecha y Hora de Registro: 01/05/2002 12:00:00 a. m.
+Rango de Fechas: 20020501
+Dinero Faltante: 1000.0000
+Anticipo de Reservación: 2000.0000
+Monto Total: 3000.0000
+Número de Personas en la Habitación: 10

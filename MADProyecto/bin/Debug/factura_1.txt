@@ -1,0 +1,15 @@
+***** FACTURA *****
+Código de Reservación: 1
+Número de Habitación: 5
+ID Cliente: 6
+ID Hotel: 4
+Fecha de Creación: 27/04/2002 12:00:00 a. m.
+Fecha de Entrada: 01/05/2002 12:00:00 a. m.
+Fecha de Salida: 11/05/2002 12:00:00 a. m.
+Tipo de Pago: Credito
+Fecha y Hora de Registro: 01/05/2002 12:00:00 a. m.
+Rango de Fechas: 01/05/2002 12:00:00 a. m.
+Dinero Faltante: 15000.0000
+Anticipo de Reservación: 12000.0000
+Monto Total: 27000.0000
+Número de Personas en la Habitación: 5

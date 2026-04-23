@@ -1,0 +1,54 @@
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\bin\Debug\MADProyectoEneJun2023.exe.config
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\bin\Debug\MADProyectoEneJun2023.exe
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\bin\Debug\MADProyectoEneJun2023.pdb
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.csproj.AssemblyReference.cache
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Iniciosesion.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Properties.Resources.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.csproj.GenerateResource.cache
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.csproj.CoreCompileInputs.cache
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.exe
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.pdb
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Registrocliente.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Registrooperativo.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Habitacion.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Hoteles.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Habitacion.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Registrohotel.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.MenuOperativo.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.NuevaContrasena.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.From_Reservacion.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Resources.MenuAdmin.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Factura.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.HistorialCliente.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.CheckIn.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.CancelarReservación.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Reporteocupacion.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Reporteventas.resources
+D:\LMAD Bernardo\Escuela\Carrera LMAD\8° Semestre\MAD 3eras\Segundo avance\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.CheckOut.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\bin\Debug\MADProyectoEneJun2023.exe.config
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\bin\Debug\MADProyectoEneJun2023.exe
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\bin\Debug\MADProyectoEneJun2023.pdb
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.csproj.AssemblyReference.cache
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.CancelarReservación.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.CheckIn.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.CheckOut.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Factura.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.HistorialCliente.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.MenuOperativo.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Habitacion.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.NuevaContrasena.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Reporteocupacion.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Reporteventas.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.From_Reservacion.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Resources.MenuAdmin.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Habitacion.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Registrocliente.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Registrohotel.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Registrooperativo.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Form_Iniciosesion.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.Properties.Resources.resources
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.csproj.GenerateResource.cache
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.exe
+C:\Users\Alan\Documents\MAD PRO\MADProyectoEneJun2023\MADProyectoEneJun2023\obj\Debug\MADProyectoEneJun2023.pdb

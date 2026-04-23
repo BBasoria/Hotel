@@ -1,0 +1,15 @@
+***** FACTURA *****
+Código de Factura: 99f1c16b-2261-4deb-b3c2-25ff0c071813
+Código de Reservación: a072717d-9d76-4317-9da5-7121909f00e2
+Número de Habitación: 1
+Nombre del Cliente: ro ro ro
+Número de Personas en la Habitación: 1
+Nombre del hotel hospedado: Disney
+Creación de la Reservación: 08/06/2023 12:00:00 a. m.
+Fecha de Entrada: 28/04/2023 12:00:00 a. m.
+Fecha de Salida: 08/06/2023 12:00:00 a. m.
+Tipo de Pago: Debito
+Rango de Fechas: 41
+Anticipo de Reservación: 6.0000
+Monto Total: 2520.0000
+Servicios usados: Playa
